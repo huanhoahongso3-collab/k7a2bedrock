@@ -1,0 +1,15 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "k7a2:k_7_a_2_sword",
+      "category": "Equipment",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "k_7_a_2_sword",
+      "minecraft:render_offsets": "tools",
+      "minecraft:creative_category": "Equipment"
+    }
+  }
+}

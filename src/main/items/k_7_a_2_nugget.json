@@ -1,0 +1,15 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "k7a2:k_7_a_2_nugget",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "k_7_a_2_nugget",
+      "minecraft:render_offsets": "apple",
+      "minecraft:creative_category": "Items"
+    }
+  }
+}
