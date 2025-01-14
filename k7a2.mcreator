@@ -1,0 +1,1339 @@
+{
+  "mod_elements": [
+    {
+      "name": "K7A2Nugget",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_7_a_2_nugget",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_resourcepack/items/k_7_a_2_nugget.json",
+          "src/main/k7a2_behaviourpack/items/k_7_a_2_nugget.json"
+        ]
+      }
+    },
+    {
+      "name": "K7A2Ingot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_7_a_2_ingot",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/items/k_7_a_2_ingot.json",
+          "src/main/k7a2_resourcepack/items/k_7_a_2_ingot.json"
+        ]
+      }
+    },
+    {
+      "name": "K7A2Block",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_7_a_2_block",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/k_7_a_2_block.json"
+        ]
+      }
+    },
+    {
+      "name": "K7A2IngotRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_7_a_2_ingot_recipe",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/recipes/k_7_a_2_ingot_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "K7A2NuggetRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_7_a_2_nugget_recipe",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/recipes/k_7_a_2_nugget_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "TranHoaiAn",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tran_hoai_an",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/tran_hoai_an.json"
+        ]
+      }
+    },
+    {
+      "name": "PhamMyAn",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pham_my_an",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/pham_my_an.json"
+        ]
+      }
+    },
+    {
+      "name": "NguyenThiNgocAnh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nguyen_thi_ngoc_anh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/nguyen_thi_ngoc_anh.json"
+        ]
+      }
+    },
+    {
+      "name": "DinhDiepAnh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dinh_diep_anh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/dinh_diep_anh.json"
+        ]
+      }
+    },
+    {
+      "name": "PhamDucAnh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pham_duc_anh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/pham_duc_anh.json"
+        ]
+      }
+    },
+    {
+      "name": "NguyenPhamMinhChau",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nguyen_pham_minh_chau",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/nguyen_pham_minh_chau.json"
+        ]
+      }
+    },
+    {
+      "name": "DinhHoangDuong",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dinh_hoang_duong",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/dinh_hoang_duong.json"
+        ]
+      }
+    },
+    {
+      "name": "TruongNgocDiep",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "truong_ngoc_diep",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/truong_ngoc_diep.json"
+        ]
+      }
+    },
+    {
+      "name": "LuongHuuDat",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "luong_huu_dat",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/luong_huu_dat.json"
+        ]
+      }
+    },
+    {
+      "name": "TranKhanhGiang",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tran_khanh_giang",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/tran_khanh_giang.json"
+        ]
+      }
+    },
+    {
+      "name": "HoangDucHai",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoang_duc_hai",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/hoang_duc_hai.json"
+        ]
+      }
+    },
+    {
+      "name": "NguyenLeKhanh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nguyen_le_khanh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/nguyen_le_khanh.json"
+        ]
+      }
+    },
+    {
+      "name": "NguyenNamKhanh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nguyen_nam_khanh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/nguyen_nam_khanh.json"
+        ]
+      }
+    },
+    {
+      "name": "NguyenTungLam",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nguyen_tung_lam",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/nguyen_tung_lam.json"
+        ]
+      }
+    },
+    {
+      "name": "TranHaLinh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tran_ha_linh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/tran_ha_linh.json"
+        ]
+      }
+    },
+    {
+      "name": "TranPhuongLinh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tran_phuong_linh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/tran_phuong_linh.json"
+        ]
+      }
+    },
+    {
+      "name": "NguyenPhuongLinh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nguyen_phuong_linh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/nguyen_phuong_linh.json"
+        ]
+      }
+    },
+    {
+      "name": "VuHaLinh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vu_ha_linh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/vu_ha_linh.json"
+        ]
+      }
+    },
+    {
+      "name": "NguyenTuanMinh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nguyen_tuan_minh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/nguyen_tuan_minh.json"
+        ]
+      }
+    },
+    {
+      "name": "DuongTienMinh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "duong_tien_minh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/duong_tien_minh.json"
+        ]
+      }
+    },
+    {
+      "name": "DangTuanMinh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dang_tuan_minh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/dang_tuan_minh.json"
+        ]
+      }
+    },
+    {
+      "name": "NguyenHaMinh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nguyen_ha_minh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/nguyen_ha_minh.json"
+        ]
+      }
+    },
+    {
+      "name": "TranNhatMinh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tran_nhat_minh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/tran_nhat_minh.json"
+        ]
+      }
+    },
+    {
+      "name": "VuKhanhNgan",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vu_khanh_ngan",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/vu_khanh_ngan.json"
+        ]
+      }
+    },
+    {
+      "name": "NguyenLapHongPhuc",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nguyen_lap_hong_phuc",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/nguyen_lap_hong_phuc.json"
+        ]
+      }
+    },
+    {
+      "name": "TranMaiPhuong",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tran_mai_phuong",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/tran_mai_phuong.json"
+        ]
+      }
+    },
+    {
+      "name": "TranNhuQuynh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tran_nhu_quynh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/tran_nhu_quynh.json"
+        ]
+      }
+    },
+    {
+      "name": "DoDucAnhTai",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "do_duc_anh_tai",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/do_duc_anh_tai.json"
+        ]
+      }
+    },
+    {
+      "name": "TranQuyHoangThai",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tran_quy_hoang_thai",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/tran_quy_hoang_thai.json"
+        ]
+      }
+    },
+    {
+      "name": "NguyenTuanThanh",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nguyen_tuan_thanh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/nguyen_tuan_thanh.json"
+        ]
+      }
+    },
+    {
+      "name": "VuThanhThao",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vu_thanh_thao",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/vu_thanh_thao.json"
+        ]
+      }
+    },
+    {
+      "name": "KieuPhuongThao",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kieu_phuong_thao",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/kieu_phuong_thao.json"
+        ]
+      }
+    },
+    {
+      "name": "NguyenThanhTruc",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nguyen_thanh_truc",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/nguyen_thanh_truc.json"
+        ]
+      }
+    },
+    {
+      "name": "NguyenTuUyen",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nguyen_tu_uyen",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/nguyen_tu_uyen.json"
+        ]
+      }
+    },
+    {
+      "name": "CoToan",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "co_toan",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/co_toan.json"
+        ]
+      }
+    },
+    {
+      "name": "NguyenKhoiNguyen",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nguyen_khoi_nguyen",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/nguyen_khoi_nguyen.json"
+        ]
+      }
+    },
+    {
+      "name": "DaoHongPhuc",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dao_hong_phuc",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/dao_hong_phuc.json"
+        ]
+      }
+    },
+    {
+      "name": "THA",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tha",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/entities/tha.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_tha.json",
+          "src/main/k7a2_resourcepack/entity/tha.entity.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/tha.json"
+        ]
+      }
+    },
+    {
+      "name": "PMA",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pma",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/entities/pma.json",
+          "src/main/k7a2_resourcepack/entity/pma.entity.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_pma.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/pma.json"
+        ]
+      }
+    },
+    {
+      "name": "NTNA",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ntna",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_ntna.json",
+          "src/main/k7a2_resourcepack/entity/ntna.entity.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/ntna.json",
+          "src/main/k7a2_behaviourpack/entities/ntna.json"
+        ]
+      }
+    },
+    {
+      "name": "DDA",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dda",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_dda.json",
+          "src/main/k7a2_behaviourpack/entities/dda.json",
+          "src/main/k7a2_resourcepack/entity/dda.entity.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/dda.json"
+        ]
+      }
+    },
+    {
+      "name": "PDA",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pda",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_resourcepack/entity/pda.entity.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_pda.json",
+          "src/main/k7a2_behaviourpack/entities/pda.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/pda.json"
+        ]
+      }
+    },
+    {
+      "name": "NPMC",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "npmc",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_resourcepack/entity/npmc.entity.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_npmc.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/npmc.json",
+          "src/main/k7a2_behaviourpack/entities/npmc.json"
+        ]
+      }
+    },
+    {
+      "name": "TND",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tnd",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/spawn_rules/tnd.json",
+          "src/main/k7a2_resourcepack/entity/tnd.entity.json",
+          "src/main/k7a2_behaviourpack/entities/tnd.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_tnd.json"
+        ]
+      }
+    },
+    {
+      "name": "DHD",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dhd",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_dhd.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/dhd.json",
+          "src/main/k7a2_resourcepack/entity/dhd.entity.json",
+          "src/main/k7a2_behaviourpack/entities/dhd.json"
+        ]
+      }
+    },
+    {
+      "name": "LHD",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lhd",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/spawn_rules/lhd.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_lhd.json",
+          "src/main/k7a2_resourcepack/entity/lhd.entity.json",
+          "src/main/k7a2_behaviourpack/entities/lhd.json"
+        ]
+      }
+    },
+    {
+      "name": "TKG",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tkg",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_resourcepack/entity/tkg.entity.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_tkg.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/tkg.json",
+          "src/main/k7a2_behaviourpack/entities/tkg.json"
+        ]
+      }
+    },
+    {
+      "name": "HDH",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hdh",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/entities/hdh.json",
+          "src/main/k7a2_resourcepack/entity/hdh.entity.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_hdh.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/hdh.json"
+        ]
+      }
+    },
+    {
+      "name": "NLK",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nlk",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_nlk.json",
+          "src/main/k7a2_behaviourpack/entities/nlk.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/nlk.json",
+          "src/main/k7a2_resourcepack/entity/nlk.entity.json"
+        ]
+      }
+    },
+    {
+      "name": "NNK",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nnk",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_nnk.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/nnk.json",
+          "src/main/k7a2_behaviourpack/entities/nnk.json",
+          "src/main/k7a2_resourcepack/entity/nnk.entity.json"
+        ]
+      }
+    },
+    {
+      "name": "NTL",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ntl",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/entities/ntl.json",
+          "src/main/k7a2_resourcepack/entity/ntl.entity.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_ntl.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/ntl.json"
+        ]
+      }
+    },
+    {
+      "name": "THL",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thl",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_resourcepack/entity/thl.entity.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/thl.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_thl.json",
+          "src/main/k7a2_behaviourpack/entities/thl.json"
+        ]
+      }
+    },
+    {
+      "name": "TPL",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tpl",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/entities/tpl.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_tpl.json",
+          "src/main/k7a2_resourcepack/entity/tpl.entity.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/tpl.json"
+        ]
+      }
+    },
+    {
+      "name": "NPL",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "npl",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/entities/npl.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/npl.json",
+          "src/main/k7a2_resourcepack/entity/npl.entity.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_npl.json"
+        ]
+      }
+    },
+    {
+      "name": "VHL",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vhl",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/spawn_rules/vhl.json",
+          "src/main/k7a2_behaviourpack/entities/vhl.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_vhl.json",
+          "src/main/k7a2_resourcepack/entity/vhl.entity.json"
+        ]
+      }
+    },
+    {
+      "name": "NTM",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ntm",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/entities/ntm.json",
+          "src/main/k7a2_resourcepack/entity/ntm.entity.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/ntm.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_ntm.json"
+        ]
+      }
+    },
+    {
+      "name": "DTM",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dtm",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/entities/dtm.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_dtm.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/dtm.json",
+          "src/main/k7a2_resourcepack/entity/dtm.entity.json"
+        ]
+      }
+    },
+    {
+      "name": "DangTM",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dang_tm",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_dang_tm.json",
+          "src/main/k7a2_behaviourpack/entities/dang_tm.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/dang_tm.json",
+          "src/main/k7a2_resourcepack/entity/dang_tm.entity.json"
+        ]
+      }
+    },
+    {
+      "name": "NHM",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nhm",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/entities/nhm.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_nhm.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/nhm.json",
+          "src/main/k7a2_resourcepack/entity/nhm.entity.json"
+        ]
+      }
+    },
+    {
+      "name": "VKN",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vkn",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/spawn_rules/vkn.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_vkn.json",
+          "src/main/k7a2_behaviourpack/entities/vkn.json",
+          "src/main/k7a2_resourcepack/entity/vkn.entity.json"
+        ]
+      }
+    },
+    {
+      "name": "TNM",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tnm",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_resourcepack/entity/tnm.entity.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_tnm.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/tnm.json",
+          "src/main/k7a2_behaviourpack/entities/tnm.json"
+        ]
+      }
+    },
+    {
+      "name": "NKN",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nkn",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/spawn_rules/nkn.json",
+          "src/main/k7a2_resourcepack/entity/nkn.entity.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_nkn.json",
+          "src/main/k7a2_behaviourpack/entities/nkn.json"
+        ]
+      }
+    },
+    {
+      "name": "NLHP",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nlhp",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/spawn_rules/nlhp.json",
+          "src/main/k7a2_behaviourpack/entities/nlhp.json",
+          "src/main/k7a2_resourcepack/entity/nlhp.entity.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_nlhp.json"
+        ]
+      }
+    },
+    {
+      "name": "TMP",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tmp",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_tmp.json",
+          "src/main/k7a2_resourcepack/entity/tmp.entity.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/tmp.json",
+          "src/main/k7a2_behaviourpack/entities/tmp.json"
+        ]
+      }
+    },
+    {
+      "name": "TNQ",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tnq",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_tnq.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/tnq.json",
+          "src/main/k7a2_resourcepack/entity/tnq.entity.json",
+          "src/main/k7a2_behaviourpack/entities/tnq.json"
+        ]
+      }
+    },
+    {
+      "name": "DDAT",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ddat",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/spawn_rules/ddat.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_ddat.json",
+          "src/main/k7a2_resourcepack/entity/ddat.entity.json",
+          "src/main/k7a2_behaviourpack/entities/ddat.json"
+        ]
+      }
+    },
+    {
+      "name": "TQHT",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tqht",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/entities/tqht.json",
+          "src/main/k7a2_resourcepack/entity/tqht.entity.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/tqht.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_tqht.json"
+        ]
+      }
+    },
+    {
+      "name": "NTT",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ntt",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_resourcepack/entity/ntt.entity.json",
+          "src/main/k7a2_behaviourpack/entities/ntt.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_ntt.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/ntt.json"
+        ]
+      }
+    },
+    {
+      "name": "VTT",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vtt",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/entities/vtt.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_vtt.json",
+          "src/main/k7a2_resourcepack/entity/vtt.entity.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/vtt.json"
+        ]
+      }
+    },
+    {
+      "name": "KPT",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kpt",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/entities/kpt.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_kpt.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/kpt.json",
+          "src/main/k7a2_resourcepack/entity/kpt.entity.json"
+        ]
+      }
+    },
+    {
+      "name": "NTTruc",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nt_truc",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_resourcepack/entity/nt_truc.entity.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_nt_truc.json",
+          "src/main/k7a2_behaviourpack/entities/nt_truc.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/nt_truc.json"
+        ]
+      }
+    },
+    {
+      "name": "NTU",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ntu",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/entities/ntu.json",
+          "src/main/k7a2_resourcepack/entity/ntu.entity.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/ntu.json",
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_ntu.json"
+        ]
+      }
+    },
+    {
+      "name": "K7A2BuildingBlock",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_7_a_2_building_block",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/loot_tables/blocks/k_7_a_2_block.json"
+        ]
+      }
+    },
+    {
+      "name": "Toan",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toan",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/loot_tables/entities/k7a2_toan.json",
+          "src/main/k7a2_resourcepack/entity/toan.entity.json",
+          "src/main/k7a2_behaviourpack/entities/toan.json",
+          "src/main/k7a2_behaviourpack/spawn_rules/toan.json"
+        ]
+      }
+    },
+    {
+      "name": "K7A2NormalBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_7_a_2_normal_block",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/blocks/k_7_a_2_normal_block.json"
+        ]
+      }
+    },
+    {
+      "name": "K7A2NormalBlockRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_7_a_2_normal_block_recipe",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/recipes/k_7_a_2_normal_block_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "K7A2IngotNormalBlock",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_7_a_2_ingot_normal_block",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/recipes/k_7_a_2_ingot_normal_block.json"
+        ]
+      }
+    },
+    {
+      "name": "K7A2AnimeBlock",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_7_a_2_anime_block",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/recipes/k_7_a_2_anime_block.json"
+        ]
+      }
+    },
+    {
+      "name": "K7A2Sword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_7_a_2_sword",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/items/k_7_a_2_sword.json",
+          "src/main/k7a2_resourcepack/items/k_7_a_2_sword.json"
+        ]
+      }
+    },
+    {
+      "name": "K7A2Scythe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_7_a_2_scythe",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/items/k_7_a_2_scythe.json",
+          "src/main/k7a2_resourcepack/items/k_7_a_2_scythe.json"
+        ]
+      }
+    },
+    {
+      "name": "K7A2SwordRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_7_a_2_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/k7a2_behaviourpack/recipes/k_7_a_2_sword_recipe.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "vi_vn": {
+      "tile.k7a2:dinh_hoang_duong.name": "Đinh Hoàng Dương",
+      "item.spawn_egg.entity.k7a2:npl.name": "Trứng sinh sản NPL",
+      "tile.k7a2:dang_tuan_minh.name": "Đặng Tuấn Minh",
+      "tile.k7a2:nguyen_lap_hong_phuc.name": "Nguyễn Lập Hồng Phúc",
+      "tile.k7a2:nguyen_tu_uyen.name": "Nguyễn Tú Uyên",
+      "item.spawn_egg.entity.k7a2:vkn.name": "Trứng sinh sản VKN",
+      "tile.k7a2:dinh_diep_anh.name": "Đinh Sâu Anh",
+      "tile.k7a2:tran_ha_linh.name": "Trần Hà Linh",
+      "tile.k7a2:tran_mai_phuong.name": "Trần Mai Phương",
+      "tile.k7a2:tran_nhu_quynh.name": "Trần Như Quỳnh",
+      "tile.k7a2:nguyen_le_khanh.name": "Nguyễn Lê Khánh",
+      "tile.k7a2:dao_hong_phuc.name": "Đào Hồng Phúc",
+      "item.spawn_egg.entity.k7a2:tmp.name": "Trứng sinh sản TMP",
+      "item.spawn_egg.entity.k7a2:tpl.name": "Trứng sinh sản TPL",
+      "tile.k7a2:vu_thanh_thao.name": "Vũ Thanh Thảo",
+      "item.spawn_egg.entity.k7a2:tnd.name": "Trứng sinh sản TND",
+      "item.spawn_egg.entity.k7a2:vhl.name": "Trứng đẻ VHL",
+      "tile.k7a2:hoang_duc_hai.name": "Hoàng Đức Hải",
+      "tile.k7a2:nguyen_ha_minh.name": "Nguyễn Hà Minh",
+      "tile.k7a2:nguyen_phuong_linh.name": "Nguyễn Phương Linh",
+      "item.k7a2:k_7_a_2_sword.name": "Kiếm K7A2",
+      "tile.k7a2:luong_huu_dat.name": "Lương Hữu Đạt",
+      "tile.k7a2:nguyen_tuan_thanh.name": "Nguyễn Tuấn Thành",
+      "item.spawn_egg.entity.k7a2:toan.name": "Trứng Toan",
+      "item.spawn_egg.entity.k7a2:ntna.name": "Trứng đẻ NTNA",
+      "item.spawn_egg.entity.k7a2:lhd.name": "Trứng đẻ trứng LHD",
+      "item.spawn_egg.entity.k7a2:thl.name": "Trứng sinh sản THL",
+      "tile.k7a2:k_7_a_2_block.name": "Khối Anime K7A2",
+      "item.spawn_egg.entity.k7a2:npmc.name": "Trứng sinh sản NPMC",
+      "item.spawn_egg.entity.k7a2:tkg.name": "Trứng sinh sản TKG",
+      "item.k7a2:k_7_a_2_scythe.name": "Lưỡi hái K7A2",
+      "item.spawn_egg.entity.k7a2:nhm.name": "Trứng đẻ NHM",
+      "tile.k7a2:vu_khanh_ngan.name": "Vũ Khánh Ngân",
+      "item.spawn_egg.entity.k7a2:ntl.name": "Trứng sinh sản NTL",
+      "item.spawn_egg.entity.k7a2:vtt.name": "Đẻ trứng VTT",
+      "tile.k7a2:tran_hoai_an.name": "Trần Hoài An",
+      "item.spawn_egg.entity.k7a2:dhd.name": "Đẻ trứng DHD",
+      "tile.k7a2:kieu_phuong_thao.name": "Kiều Phương Thảo",
+      "tile.k7a2:duong_tien_minh.name": "Dương Tiến Minh",
+      "tile.k7a2:vu_ha_linh.name": "Vũ Hà Linh",
+      "item.spawn_egg.entity.k7a2:tha.name": "Trứng sinh sản THA",
+      "tile.k7a2:k_7_a_2_normal_block.name": "Khối bình thường K7A2",
+      "tile.k7a2:tran_nhat_minh.name": "Trần Nhật Minh",
+      "tile.k7a2:do_duc_anh_tai.name": "Đỗ Đức Anh Tài",
+      "item.k7a2:k_7_a_2_ingot.name": "Thỏi K7A2",
+      "item.spawn_egg.entity.k7a2:ntt.name": "Trứng sinh sản NTT",
+      "tile.k7a2:co_toan.name": "Cô Toan",
+      "item.spawn_egg.entity.k7a2:tnq.name": "Trứng sinh sản TNQ",
+      "item.spawn_egg.entity.k7a2:ddat.name": "Đẻ trứng DDAT",
+      "tile.k7a2:pham_duc_anh.name": "Phạm Đức Anh",
+      "item.spawn_egg.entity.k7a2:nlhp.name": "Trứng sinh sản NLHP",
+      "item.spawn_egg.entity.k7a2:tqht.name": "Trứng sinh sản TQHT",
+      "item.spawn_egg.entity.k7a2:tnm.name": "Trứng sinh sản TNM",
+      "tile.k7a2:truong_ngoc_diep.name": "Trương Ngọc Điệp",
+      "item.spawn_egg.entity.k7a2:ntu.name": "Trứng sinh sản NTU",
+      "item.spawn_egg.entity.k7a2:pda.name": "Trứng sinh sản PDA",
+      "item.spawn_egg.entity.k7a2:nlk.name": "Trứng sinh sản NLK",
+      "tile.k7a2:nguyen_thi_ngoc_anh.name": "Nguyễn Thị Ngọc Anh",
+      "tile.k7a2:nguyen_nam_khanh.name": "Nguyễn Nam Khánh",
+      "tile.k7a2:nguyen_pham_minh_chau.name": "Nguyễn Phạm Minh Châu",
+      "item.spawn_egg.entity.k7a2:dda.name": "Trứng sinh sản DDA",
+      "item.spawn_egg.entity.k7a2:nnk.name": "Trứng sinh sản NNK",
+      "item.k7a2:k_7_a_2_nugget.name": "Mảnh K7A2",
+      "item.spawn_egg.entity.k7a2:hdh.name": "Trứng đẻ HDH",
+      "item.spawn_egg.entity.k7a2:nt_truc.name": "Trứng đẻ NT Trúc",
+      "item.spawn_egg.entity.k7a2:kpt.name": "Trứng sinh sản KPT",
+      "tile.k7a2:tran_khanh_giang.name": "Trần Khánh Giang",
+      "tile.k7a2:tran_quy_hoang_thai.name": "Trần Quý Hoàng Thái",
+      "tile.k7a2:nguyen_thanh_truc.name": "Nguyễn Thanh Trúc",
+      "tile.k7a2:nguyen_khoi_nguyen.name": "Nguyễn Khôi Nguyên",
+      "tile.k7a2:nguyen_tung_lam.name": "Nguyễn Tùng Lâm",
+      "item.spawn_egg.entity.k7a2:nkn.name": "Trứng sinh ra NKN",
+      "tile.k7a2:tran_phuong_linh.name": "Trần Phương Linh",
+      "item.spawn_egg.entity.k7a2:dang_tm.name": "Trứng sinh ra Dang TM",
+      "item.spawn_egg.entity.k7a2:ntm.name": "Trứng sinh ra NTM",
+      "tile.k7a2:nguyen_tuan_minh.name": "Nguyễn Tuấn Minh",
+      "tile.k7a2:pham_my_an.name": "Phạm Mỹ An",
+      "item.spawn_egg.entity.k7a2:pma.name": "Trứng sinh ra PMA",
+      "item.spawn_egg.entity.k7a2:dtm.name": "Trứng sinh ra DTM"
+    },
+    "en_us": {
+      "item.spawn_egg.entity.k7a2:npl.name": "NPL Spawn Egg",
+      "tile.k7a2:dinh_hoang_duong.name": "Dinh Hoang Duong",
+      "tile.k7a2:dang_tuan_minh.name": "Dang Tuan Minh",
+      "tile.k7a2:nguyen_lap_hong_phuc.name": "Nguyen Lap Hong Phuc",
+      "tile.k7a2:nguyen_tu_uyen.name": "Nguyen Tu Uyen",
+      "item.spawn_egg.entity.k7a2:vkn.name": "VKN Spawn Egg",
+      "tile.k7a2:dinh_diep_anh.name": "Dinh Diep Anh",
+      "tile.k7a2:tran_ha_linh.name": "Tran Ha Linh",
+      "tile.k7a2:tran_mai_phuong.name": "Tran Mai Phuong",
+      "tile.k7a2:tran_nhu_quynh.name": "Tran Nhu Quynh",
+      "tile.k7a2:dao_hong_phuc.name": "Dao Hong Phuc",
+      "tile.k7a2:nguyen_le_khanh.name": "Nguyen Le Khanh",
+      "item.spawn_egg.entity.k7a2:tmp.name": "TMP Spawn Egg",
+      "item.spawn_egg.entity.k7a2:tpl.name": "TPL Spawn Egg",
+      "tile.k7a2:vu_thanh_thao.name": "Vu Thanh Thao",
+      "item.spawn_egg.entity.k7a2:tnd.name": "TND Spawn Egg",
+      "item.spawn_egg.entity.k7a2:vhl.name": "VHL Spawn Egg",
+      "tile.k7a2:hoang_duc_hai.name": "Hoang Duc Hai",
+      "tile.k7a2:nguyen_ha_minh.name": "Nguyen Ha Minh",
+      "tile.k7a2:nguyen_phuong_linh.name": "Nguyen Phuong Linh",
+      "item.k7a2:k_7_a_2_sword.name": "K7A2 Sword",
+      "tile.k7a2:luong_huu_dat.name": "Luong Huu Dat",
+      "tile.k7a2:nguyen_tuan_thanh.name": "Nguyen Tuan Thanh",
+      "item.spawn_egg.entity.k7a2:toan.name": "Toan Spawn Egg",
+      "item.spawn_egg.entity.k7a2:ntna.name": "NTNA Spawn Egg",
+      "item.spawn_egg.entity.k7a2:lhd.name": "LHD Spawn Egg",
+      "item.spawn_egg.entity.k7a2:thl.name": "THL Spawn Egg",
+      "tile.k7a2:k_7_a_2_block.name": "K7A2 Anime Block",
+      "item.spawn_egg.entity.k7a2:npmc.name": "NPMC Spawn Egg",
+      "item.spawn_egg.entity.k7a2:tkg.name": "TKG Spawn Egg",
+      "item.k7a2:k_7_a_2_scythe.name": "K7A2 Scythe",
+      "item.spawn_egg.entity.k7a2:nhm.name": "NHM Spawn Egg",
+      "tile.k7a2:vu_khanh_ngan.name": "Vu Khanh Ngan",
+      "item.spawn_egg.entity.k7a2:ntl.name": "NTL Spawn Egg",
+      "item.spawn_egg.entity.k7a2:vtt.name": "VTT Spawn Egg",
+      "tile.k7a2:tran_hoai_an.name": "Tran Hoai An",
+      "item.spawn_egg.entity.k7a2:dhd.name": "DHD Spawn Egg",
+      "tile.k7a2:kieu_phuong_thao.name": "Kieu Phuong Thao",
+      "tile.k7a2:duong_tien_minh.name": "Duong Tien Minh",
+      "tile.k7a2:vu_ha_linh.name": "Vu Ha Linh",
+      "item.spawn_egg.entity.k7a2:tha.name": "THA Spawn Egg",
+      "tile.k7a2:k_7_a_2_normal_block.name": "K7A2 Normal Block",
+      "tile.k7a2:tran_nhat_minh.name": "Tran Nhat Minh",
+      "tile.k7a2:do_duc_anh_tai.name": "Do Duc Anh Tai",
+      "item.k7a2:k_7_a_2_ingot.name": "K7A2 Ingot",
+      "item.spawn_egg.entity.k7a2:ntt.name": "NTT Spawn Egg",
+      "tile.k7a2:co_toan.name": "Co Toan",
+      "item.spawn_egg.entity.k7a2:tnq.name": "TNQ Spawn Egg",
+      "item.spawn_egg.entity.k7a2:ddat.name": "DDAT Spawn Egg",
+      "tile.k7a2:pham_duc_anh.name": "Pham Duc Anh",
+      "item.spawn_egg.entity.k7a2:nlhp.name": "NLHP Spawn Egg",
+      "item.spawn_egg.entity.k7a2:tqht.name": "TQHT Spawn Egg",
+      "item.spawn_egg.entity.k7a2:tnm.name": "TNM Spawn Egg",
+      "tile.k7a2:truong_ngoc_diep.name": "Truong Ngoc Diep",
+      "item.spawn_egg.entity.k7a2:ntu.name": "NTU Spawn Egg",
+      "item.spawn_egg.entity.k7a2:pda.name": "PDA Spawn Egg",
+      "item.spawn_egg.entity.k7a2:nlk.name": "NLK Spawn Egg",
+      "tile.k7a2:nguyen_thi_ngoc_anh.name": "Nguyen Thi Ngoc Anh",
+      "tile.k7a2:nguyen_nam_khanh.name": "Nguyen Nam Khanh",
+      "tile.k7a2:nguyen_pham_minh_chau.name": "Nguyen Pham Minh Chau",
+      "item.spawn_egg.entity.k7a2:dda.name": "DDA Spawn Egg",
+      "item.spawn_egg.entity.k7a2:nnk.name": "NNK Spawn Egg",
+      "item.k7a2:k_7_a_2_nugget.name": "K7A2 Nugget",
+      "item.spawn_egg.entity.k7a2:hdh.name": "HDH Spawn Egg",
+      "item.spawn_egg.entity.k7a2:nt_truc.name": "NT Truc Spawn Egg",
+      "item.spawn_egg.entity.k7a2:kpt.name": "KPT Spawn Egg",
+      "tile.k7a2:tran_khanh_giang.name": "Tran Khanh Giang",
+      "tile.k7a2:tran_quy_hoang_thai.name": "Tran Quy Hoang Thai",
+      "tile.k7a2:nguyen_thanh_truc.name": "Nguyen Thanh Truc",
+      "tile.k7a2:nguyen_khoi_nguyen.name": "Nguyen Khoi Nguyen",
+      "tile.k7a2:nguyen_tung_lam.name": "Nguyen Tung Lam",
+      "item.spawn_egg.entity.k7a2:nkn.name": "NKN Spawn Egg",
+      "tile.k7a2:tran_phuong_linh.name": "Tran Phuong Linh",
+      "item.spawn_egg.entity.k7a2:dang_tm.name": "Dang TM Spawn Egg",
+      "item.spawn_egg.entity.k7a2:ntm.name": "NTM Spawn Egg",
+      "tile.k7a2:nguyen_tuan_minh.name": "Nguyen Tuan Minh",
+      "tile.k7a2:pham_my_an.name": "Pham My An",
+      "item.spawn_egg.entity.k7a2:pma.name": "PMA Spawn Egg",
+      "item.spawn_egg.entity.k7a2:dtm.name": "DTM Spawn Egg"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "k7a2",
+    "modName": "k7a2",
+    "version": "1.0.0",
+    "description": "K7A2 CBH mod in MC ported to Bedrock. Minimal port.",
+    "author": "user, DHP",
+    "websiteURL": "https://tinyurl.com/k7a2modmc",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.21.x",
+    "credits": "Dao Hong Phuc, K7A2 Project",
+    "modElementsPackage": "net.mc.cbh.k7a2"
+  },
+  "mcreatorVersion": 202400451119
+}
