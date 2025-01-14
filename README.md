@@ -1,4 +1,4 @@
-﻿# Welcome to K7A2!
+﻿# Welcome to K7A2 Mod's Source Code!
 This is source code of K7A2 Mod in Bedrock. This source code is hosted under Apache License v2.0, but the image is copyrighted and therefore you can't use that. Alternatively you can use the image from your own or from open-source K7A2 Project
 
 # Software
