@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "k7a2:k_7_a_2_scythe",
+          "weight": 1,
+          "functions": []
+        }
+      ]
+    }
+  ]
+}
