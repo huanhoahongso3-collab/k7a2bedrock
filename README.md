@@ -2,7 +2,7 @@
 This is source code of K7A2 Mod in Bedrock. This source code is hosted under Apache License v2.0, but the image is copyrighted and therefore you can't use that. Alternatively you can use the image from your own or from open-source K7A2 Project
 
 # Software
-This mod is created using [`MCreator`](mcreator.net)
+This mod is created using [`MCreator`](https://mcreator.net)
 
 
 # Building
