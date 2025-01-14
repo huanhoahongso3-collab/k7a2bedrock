@@ -5,7 +5,7 @@ This is source code of K7A2 Mod in Bedrock. This source code is hosted under Apa
 This mod is created using [`MCreator`](https://mcreator.net)
 
 
-# Building
+# Using
 
 1. `Download MCreator`
 2. `Clone this project`
