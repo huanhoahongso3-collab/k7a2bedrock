@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "k7a2:k_7_a_2_nugget_recipe"
+    },
+    "groups": [
+      "k7a2nugget"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "k7a2:k_7_a_2_ingot"
+      }
+    ],
+    "result": {
+      "item": "k7a2:k_7_a_2_nugget",
+      "count": 4
+    }
+  }
+}

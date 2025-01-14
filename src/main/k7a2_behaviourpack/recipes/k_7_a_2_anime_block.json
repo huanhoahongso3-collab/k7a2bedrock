@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "k7a2:k_7_a_2_anime_block"
+    },
+    "groups": [
+      "k7a2_anime_block"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ab",
+      "ba"
+    ],
+    "key": {
+      "a": {
+        "item": "k7a2:k_7_a_2_normal_block"
+      },
+      "b": {
+        "item": "k7a2:k_7_a_2_ingot"
+      }
+    },
+    "result": {
+      "item": "k7a2:k_7_a_2_block",
+      "count": 1
+    }
+  }
+}

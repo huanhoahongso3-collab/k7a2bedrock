@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "k7a2:k_7_a_2_sword_recipe"
+    },
+    "groups": [
+      "k7a2_sword"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "a",
+      "a",
+      "b"
+    ],
+    "key": {
+      "a": {
+        "item": "k7a2:k_7_a_2_block"
+      },
+      "b": {
+        "item": "minecraft:end_rod"
+      }
+    },
+    "result": {
+      "item": "k7a2:k_7_a_2_sword",
+      "count": 1
+    }
+  }
+}

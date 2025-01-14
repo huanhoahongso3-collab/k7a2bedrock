@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "K7A2 CBH mod in MC ported to Bedrock. Minimal port.",
+    "name": "k7a2",
+    "uuid": "334cfcb5-e6be-3994-999b-0aad5207fb1a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "K7A2 CBH mod in MC ported to Bedrock. Minimal port.",
+      "type": "data",
+      "uuid": "28e4862c-678c-3097-917a-4a3535cd8f62",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "f09ce91e-4041-3423-b0e3-76a885b05c38",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "user, DHP"
+    ],
+    "url": "https://tinyurl.com/k7a2modmc"
+  }
+}
