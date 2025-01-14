@@ -1,0 +1,1178 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 0,
+  "texture_data": {
+    "k7a2_k_7_a_2_block_up": {
+      "textures": [
+        "textures/blocks/b0931868d81346b68f5964f0c393b2fe"
+      ]
+    },
+    "k7a2_k_7_a_2_block_down": {
+      "textures": [
+        "textures/blocks/b0931868d81346b68f5964f0c393b2fe"
+      ]
+    },
+    "k7a2_k_7_a_2_block_south": {
+      "textures": [
+        "textures/blocks/b0931868d81346b68f5964f0c393b2fe"
+      ]
+    },
+    "k7a2_k_7_a_2_block_north": {
+      "textures": [
+        "textures/blocks/b0931868d81346b68f5964f0c393b2fe"
+      ]
+    },
+    "k7a2_k_7_a_2_block_west": {
+      "textures": [
+        "textures/blocks/b0931868d81346b68f5964f0c393b2fe"
+      ]
+    },
+    "k7a2_k_7_a_2_block_east": {
+      "textures": [
+        "textures/blocks/b0931868d81346b68f5964f0c393b2fe"
+      ]
+    },
+    "k7a2_tran_hoai_an_up": {
+      "textures": [
+        "textures/blocks/_hoaian"
+      ]
+    },
+    "k7a2_tran_hoai_an_down": {
+      "textures": [
+        "textures/blocks/_hoaian"
+      ]
+    },
+    "k7a2_tran_hoai_an_south": {
+      "textures": [
+        "textures/blocks/_hoaian"
+      ]
+    },
+    "k7a2_tran_hoai_an_north": {
+      "textures": [
+        "textures/blocks/_hoaian"
+      ]
+    },
+    "k7a2_tran_hoai_an_west": {
+      "textures": [
+        "textures/blocks/_hoaian"
+      ]
+    },
+    "k7a2_tran_hoai_an_east": {
+      "textures": [
+        "textures/blocks/_hoaian"
+      ]
+    },
+    "k7a2_pham_my_an_up": {
+      "textures": [
+        "textures/blocks/_myan"
+      ]
+    },
+    "k7a2_pham_my_an_down": {
+      "textures": [
+        "textures/blocks/_myan"
+      ]
+    },
+    "k7a2_pham_my_an_south": {
+      "textures": [
+        "textures/blocks/_myan"
+      ]
+    },
+    "k7a2_pham_my_an_north": {
+      "textures": [
+        "textures/blocks/_myan"
+      ]
+    },
+    "k7a2_pham_my_an_west": {
+      "textures": [
+        "textures/blocks/_myan"
+      ]
+    },
+    "k7a2_pham_my_an_east": {
+      "textures": [
+        "textures/blocks/_myan"
+      ]
+    },
+    "k7a2_nguyen_thi_ngoc_anh_up": {
+      "textures": [
+        "textures/blocks/_ngocanh"
+      ]
+    },
+    "k7a2_nguyen_thi_ngoc_anh_down": {
+      "textures": [
+        "textures/blocks/_ngocanh"
+      ]
+    },
+    "k7a2_nguyen_thi_ngoc_anh_south": {
+      "textures": [
+        "textures/blocks/_ngocanh"
+      ]
+    },
+    "k7a2_nguyen_thi_ngoc_anh_north": {
+      "textures": [
+        "textures/blocks/_ngocanh"
+      ]
+    },
+    "k7a2_nguyen_thi_ngoc_anh_west": {
+      "textures": [
+        "textures/blocks/_ngocanh"
+      ]
+    },
+    "k7a2_nguyen_thi_ngoc_anh_east": {
+      "textures": [
+        "textures/blocks/_ngocanh"
+      ]
+    },
+    "k7a2_dinh_diep_anh_up": {
+      "textures": [
+        "textures/blocks/_danh"
+      ]
+    },
+    "k7a2_dinh_diep_anh_down": {
+      "textures": [
+        "textures/blocks/_danh"
+      ]
+    },
+    "k7a2_dinh_diep_anh_south": {
+      "textures": [
+        "textures/blocks/_danh"
+      ]
+    },
+    "k7a2_dinh_diep_anh_north": {
+      "textures": [
+        "textures/blocks/_danh"
+      ]
+    },
+    "k7a2_dinh_diep_anh_west": {
+      "textures": [
+        "textures/blocks/_danh"
+      ]
+    },
+    "k7a2_dinh_diep_anh_east": {
+      "textures": [
+        "textures/blocks/_danh"
+      ]
+    },
+    "k7a2_pham_duc_anh_up": {
+      "textures": [
+        "textures/blocks/_ducanh"
+      ]
+    },
+    "k7a2_pham_duc_anh_down": {
+      "textures": [
+        "textures/blocks/_ducanh"
+      ]
+    },
+    "k7a2_pham_duc_anh_south": {
+      "textures": [
+        "textures/blocks/_ducanh"
+      ]
+    },
+    "k7a2_pham_duc_anh_north": {
+      "textures": [
+        "textures/blocks/_ducanh"
+      ]
+    },
+    "k7a2_pham_duc_anh_west": {
+      "textures": [
+        "textures/blocks/_ducanh"
+      ]
+    },
+    "k7a2_pham_duc_anh_east": {
+      "textures": [
+        "textures/blocks/_ducanh"
+      ]
+    },
+    "k7a2_nguyen_pham_minh_chau_up": {
+      "textures": [
+        "textures/blocks/_chau"
+      ]
+    },
+    "k7a2_nguyen_pham_minh_chau_down": {
+      "textures": [
+        "textures/blocks/_chau"
+      ]
+    },
+    "k7a2_nguyen_pham_minh_chau_south": {
+      "textures": [
+        "textures/blocks/_chau"
+      ]
+    },
+    "k7a2_nguyen_pham_minh_chau_north": {
+      "textures": [
+        "textures/blocks/_chau"
+      ]
+    },
+    "k7a2_nguyen_pham_minh_chau_west": {
+      "textures": [
+        "textures/blocks/_chau"
+      ]
+    },
+    "k7a2_nguyen_pham_minh_chau_east": {
+      "textures": [
+        "textures/blocks/_chau"
+      ]
+    },
+    "k7a2_dinh_hoang_duong_up": {
+      "textures": [
+        "textures/blocks/_duong"
+      ]
+    },
+    "k7a2_dinh_hoang_duong_down": {
+      "textures": [
+        "textures/blocks/_duong"
+      ]
+    },
+    "k7a2_dinh_hoang_duong_south": {
+      "textures": [
+        "textures/blocks/_duong"
+      ]
+    },
+    "k7a2_dinh_hoang_duong_north": {
+      "textures": [
+        "textures/blocks/_duong"
+      ]
+    },
+    "k7a2_dinh_hoang_duong_west": {
+      "textures": [
+        "textures/blocks/_duong"
+      ]
+    },
+    "k7a2_dinh_hoang_duong_east": {
+      "textures": [
+        "textures/blocks/_duong"
+      ]
+    },
+    "k7a2_truong_ngoc_diep_up": {
+      "textures": [
+        "textures/blocks/_diep"
+      ]
+    },
+    "k7a2_truong_ngoc_diep_down": {
+      "textures": [
+        "textures/blocks/_diep"
+      ]
+    },
+    "k7a2_truong_ngoc_diep_south": {
+      "textures": [
+        "textures/blocks/_diep"
+      ]
+    },
+    "k7a2_truong_ngoc_diep_north": {
+      "textures": [
+        "textures/blocks/_diep"
+      ]
+    },
+    "k7a2_truong_ngoc_diep_west": {
+      "textures": [
+        "textures/blocks/_diep"
+      ]
+    },
+    "k7a2_truong_ngoc_diep_east": {
+      "textures": [
+        "textures/blocks/_diep"
+      ]
+    },
+    "k7a2_luong_huu_dat_up": {
+      "textures": [
+        "textures/blocks/_dat"
+      ]
+    },
+    "k7a2_luong_huu_dat_down": {
+      "textures": [
+        "textures/blocks/_dat"
+      ]
+    },
+    "k7a2_luong_huu_dat_south": {
+      "textures": [
+        "textures/blocks/_dat"
+      ]
+    },
+    "k7a2_luong_huu_dat_north": {
+      "textures": [
+        "textures/blocks/_dat"
+      ]
+    },
+    "k7a2_luong_huu_dat_west": {
+      "textures": [
+        "textures/blocks/_dat"
+      ]
+    },
+    "k7a2_luong_huu_dat_east": {
+      "textures": [
+        "textures/blocks/_dat"
+      ]
+    },
+    "k7a2_tran_khanh_giang_up": {
+      "textures": [
+        "textures/blocks/_giang"
+      ]
+    },
+    "k7a2_tran_khanh_giang_down": {
+      "textures": [
+        "textures/blocks/_giang"
+      ]
+    },
+    "k7a2_tran_khanh_giang_south": {
+      "textures": [
+        "textures/blocks/_giang"
+      ]
+    },
+    "k7a2_tran_khanh_giang_north": {
+      "textures": [
+        "textures/blocks/_giang"
+      ]
+    },
+    "k7a2_tran_khanh_giang_west": {
+      "textures": [
+        "textures/blocks/_giang"
+      ]
+    },
+    "k7a2_tran_khanh_giang_east": {
+      "textures": [
+        "textures/blocks/_giang"
+      ]
+    },
+    "k7a2_hoang_duc_hai_up": {
+      "textures": [
+        "textures/blocks/_hai"
+      ]
+    },
+    "k7a2_hoang_duc_hai_down": {
+      "textures": [
+        "textures/blocks/_hai"
+      ]
+    },
+    "k7a2_hoang_duc_hai_south": {
+      "textures": [
+        "textures/blocks/_hai"
+      ]
+    },
+    "k7a2_hoang_duc_hai_north": {
+      "textures": [
+        "textures/blocks/_hai"
+      ]
+    },
+    "k7a2_hoang_duc_hai_west": {
+      "textures": [
+        "textures/blocks/_hai"
+      ]
+    },
+    "k7a2_hoang_duc_hai_east": {
+      "textures": [
+        "textures/blocks/_hai"
+      ]
+    },
+    "k7a2_nguyen_le_khanh_up": {
+      "textures": [
+        "textures/blocks/_khanh"
+      ]
+    },
+    "k7a2_nguyen_le_khanh_down": {
+      "textures": [
+        "textures/blocks/_khanh"
+      ]
+    },
+    "k7a2_nguyen_le_khanh_south": {
+      "textures": [
+        "textures/blocks/_khanh"
+      ]
+    },
+    "k7a2_nguyen_le_khanh_north": {
+      "textures": [
+        "textures/blocks/_khanh"
+      ]
+    },
+    "k7a2_nguyen_le_khanh_west": {
+      "textures": [
+        "textures/blocks/_khanh"
+      ]
+    },
+    "k7a2_nguyen_le_khanh_east": {
+      "textures": [
+        "textures/blocks/_khanh"
+      ]
+    },
+    "k7a2_nguyen_nam_khanh_up": {
+      "textures": [
+        "textures/blocks/_khanhs"
+      ]
+    },
+    "k7a2_nguyen_nam_khanh_down": {
+      "textures": [
+        "textures/blocks/_khanhs"
+      ]
+    },
+    "k7a2_nguyen_nam_khanh_south": {
+      "textures": [
+        "textures/blocks/_khanhs"
+      ]
+    },
+    "k7a2_nguyen_nam_khanh_north": {
+      "textures": [
+        "textures/blocks/_khanhs"
+      ]
+    },
+    "k7a2_nguyen_nam_khanh_west": {
+      "textures": [
+        "textures/blocks/_khanhs"
+      ]
+    },
+    "k7a2_nguyen_nam_khanh_east": {
+      "textures": [
+        "textures/blocks/_khanhs"
+      ]
+    },
+    "k7a2_nguyen_tung_lam_up": {
+      "textures": [
+        "textures/blocks/_lam"
+      ]
+    },
+    "k7a2_nguyen_tung_lam_down": {
+      "textures": [
+        "textures/blocks/_lam"
+      ]
+    },
+    "k7a2_nguyen_tung_lam_south": {
+      "textures": [
+        "textures/blocks/_lam"
+      ]
+    },
+    "k7a2_nguyen_tung_lam_north": {
+      "textures": [
+        "textures/blocks/_lam"
+      ]
+    },
+    "k7a2_nguyen_tung_lam_west": {
+      "textures": [
+        "textures/blocks/_lam"
+      ]
+    },
+    "k7a2_nguyen_tung_lam_east": {
+      "textures": [
+        "textures/blocks/_lam"
+      ]
+    },
+    "k7a2_tran_ha_linh_up": {
+      "textures": [
+        "textures/blocks/_thlinh"
+      ]
+    },
+    "k7a2_tran_ha_linh_down": {
+      "textures": [
+        "textures/blocks/_thlinh"
+      ]
+    },
+    "k7a2_tran_ha_linh_south": {
+      "textures": [
+        "textures/blocks/_thlinh"
+      ]
+    },
+    "k7a2_tran_ha_linh_north": {
+      "textures": [
+        "textures/blocks/_thlinh"
+      ]
+    },
+    "k7a2_tran_ha_linh_west": {
+      "textures": [
+        "textures/blocks/_thlinh"
+      ]
+    },
+    "k7a2_tran_ha_linh_east": {
+      "textures": [
+        "textures/blocks/_thlinh"
+      ]
+    },
+    "k7a2_tran_phuong_linh_up": {
+      "textures": [
+        "textures/blocks/_tplinh"
+      ]
+    },
+    "k7a2_tran_phuong_linh_down": {
+      "textures": [
+        "textures/blocks/_tplinh"
+      ]
+    },
+    "k7a2_tran_phuong_linh_south": {
+      "textures": [
+        "textures/blocks/_tplinh"
+      ]
+    },
+    "k7a2_tran_phuong_linh_north": {
+      "textures": [
+        "textures/blocks/_tplinh"
+      ]
+    },
+    "k7a2_tran_phuong_linh_west": {
+      "textures": [
+        "textures/blocks/_tplinh"
+      ]
+    },
+    "k7a2_tran_phuong_linh_east": {
+      "textures": [
+        "textures/blocks/_tplinh"
+      ]
+    },
+    "k7a2_nguyen_phuong_linh_up": {
+      "textures": [
+        "textures/blocks/_nguyenlinh"
+      ]
+    },
+    "k7a2_nguyen_phuong_linh_down": {
+      "textures": [
+        "textures/blocks/_nguyenlinh"
+      ]
+    },
+    "k7a2_nguyen_phuong_linh_south": {
+      "textures": [
+        "textures/blocks/_nguyenlinh"
+      ]
+    },
+    "k7a2_nguyen_phuong_linh_north": {
+      "textures": [
+        "textures/blocks/_nguyenlinh"
+      ]
+    },
+    "k7a2_nguyen_phuong_linh_west": {
+      "textures": [
+        "textures/blocks/_nguyenlinh"
+      ]
+    },
+    "k7a2_nguyen_phuong_linh_east": {
+      "textures": [
+        "textures/blocks/_nguyenlinh"
+      ]
+    },
+    "k7a2_vu_ha_linh_up": {
+      "textures": [
+        "textures/blocks/_vhlinh"
+      ]
+    },
+    "k7a2_vu_ha_linh_down": {
+      "textures": [
+        "textures/blocks/_vhlinh"
+      ]
+    },
+    "k7a2_vu_ha_linh_south": {
+      "textures": [
+        "textures/blocks/_vhlinh"
+      ]
+    },
+    "k7a2_vu_ha_linh_north": {
+      "textures": [
+        "textures/blocks/_vhlinh"
+      ]
+    },
+    "k7a2_vu_ha_linh_west": {
+      "textures": [
+        "textures/blocks/_vhlinh"
+      ]
+    },
+    "k7a2_vu_ha_linh_east": {
+      "textures": [
+        "textures/blocks/_vhlinh"
+      ]
+    },
+    "k7a2_nguyen_tuan_minh_up": {
+      "textures": [
+        "textures/blocks/_nguyenminh"
+      ]
+    },
+    "k7a2_nguyen_tuan_minh_down": {
+      "textures": [
+        "textures/blocks/_nguyenminh"
+      ]
+    },
+    "k7a2_nguyen_tuan_minh_south": {
+      "textures": [
+        "textures/blocks/_nguyenminh"
+      ]
+    },
+    "k7a2_nguyen_tuan_minh_north": {
+      "textures": [
+        "textures/blocks/_nguyenminh"
+      ]
+    },
+    "k7a2_nguyen_tuan_minh_west": {
+      "textures": [
+        "textures/blocks/_nguyenminh"
+      ]
+    },
+    "k7a2_nguyen_tuan_minh_east": {
+      "textures": [
+        "textures/blocks/_nguyenminh"
+      ]
+    },
+    "k7a2_duong_tien_minh_up": {
+      "textures": [
+        "textures/blocks/_duongminh"
+      ]
+    },
+    "k7a2_duong_tien_minh_down": {
+      "textures": [
+        "textures/blocks/_duongminh"
+      ]
+    },
+    "k7a2_duong_tien_minh_south": {
+      "textures": [
+        "textures/blocks/_duongminh"
+      ]
+    },
+    "k7a2_duong_tien_minh_north": {
+      "textures": [
+        "textures/blocks/_duongminh"
+      ]
+    },
+    "k7a2_duong_tien_minh_west": {
+      "textures": [
+        "textures/blocks/_duongminh"
+      ]
+    },
+    "k7a2_duong_tien_minh_east": {
+      "textures": [
+        "textures/blocks/_duongminh"
+      ]
+    },
+    "k7a2_dang_tuan_minh_up": {
+      "textures": [
+        "textures/blocks/_dangminh"
+      ]
+    },
+    "k7a2_dang_tuan_minh_down": {
+      "textures": [
+        "textures/blocks/_dangminh"
+      ]
+    },
+    "k7a2_dang_tuan_minh_south": {
+      "textures": [
+        "textures/blocks/_dangminh"
+      ]
+    },
+    "k7a2_dang_tuan_minh_north": {
+      "textures": [
+        "textures/blocks/_dangminh"
+      ]
+    },
+    "k7a2_dang_tuan_minh_west": {
+      "textures": [
+        "textures/blocks/_dangminh"
+      ]
+    },
+    "k7a2_dang_tuan_minh_east": {
+      "textures": [
+        "textures/blocks/_dangminh"
+      ]
+    },
+    "k7a2_nguyen_ha_minh_up": {
+      "textures": [
+        "textures/blocks/_haminh"
+      ]
+    },
+    "k7a2_nguyen_ha_minh_down": {
+      "textures": [
+        "textures/blocks/_haminh"
+      ]
+    },
+    "k7a2_nguyen_ha_minh_south": {
+      "textures": [
+        "textures/blocks/_haminh"
+      ]
+    },
+    "k7a2_nguyen_ha_minh_north": {
+      "textures": [
+        "textures/blocks/_haminh"
+      ]
+    },
+    "k7a2_nguyen_ha_minh_west": {
+      "textures": [
+        "textures/blocks/_haminh"
+      ]
+    },
+    "k7a2_nguyen_ha_minh_east": {
+      "textures": [
+        "textures/blocks/_haminh"
+      ]
+    },
+    "k7a2_tran_nhat_minh_up": {
+      "textures": [
+        "textures/blocks/_nhatminh"
+      ]
+    },
+    "k7a2_tran_nhat_minh_down": {
+      "textures": [
+        "textures/blocks/_nhatminh"
+      ]
+    },
+    "k7a2_tran_nhat_minh_south": {
+      "textures": [
+        "textures/blocks/_nhatminh"
+      ]
+    },
+    "k7a2_tran_nhat_minh_north": {
+      "textures": [
+        "textures/blocks/_nhatminh"
+      ]
+    },
+    "k7a2_tran_nhat_minh_west": {
+      "textures": [
+        "textures/blocks/_nhatminh"
+      ]
+    },
+    "k7a2_tran_nhat_minh_east": {
+      "textures": [
+        "textures/blocks/_nhatminh"
+      ]
+    },
+    "k7a2_vu_khanh_ngan_up": {
+      "textures": [
+        "textures/blocks/_ngan"
+      ]
+    },
+    "k7a2_vu_khanh_ngan_down": {
+      "textures": [
+        "textures/blocks/_ngan"
+      ]
+    },
+    "k7a2_vu_khanh_ngan_south": {
+      "textures": [
+        "textures/blocks/_ngan"
+      ]
+    },
+    "k7a2_vu_khanh_ngan_north": {
+      "textures": [
+        "textures/blocks/_ngan"
+      ]
+    },
+    "k7a2_vu_khanh_ngan_west": {
+      "textures": [
+        "textures/blocks/_ngan"
+      ]
+    },
+    "k7a2_vu_khanh_ngan_east": {
+      "textures": [
+        "textures/blocks/_ngan"
+      ]
+    },
+    "k7a2_nguyen_lap_hong_phuc_up": {
+      "textures": [
+        "textures/blocks/_nguyenphuc"
+      ]
+    },
+    "k7a2_nguyen_lap_hong_phuc_down": {
+      "textures": [
+        "textures/blocks/_nguyenphuc"
+      ]
+    },
+    "k7a2_nguyen_lap_hong_phuc_south": {
+      "textures": [
+        "textures/blocks/_nguyenphuc"
+      ]
+    },
+    "k7a2_nguyen_lap_hong_phuc_north": {
+      "textures": [
+        "textures/blocks/_nguyenphuc"
+      ]
+    },
+    "k7a2_nguyen_lap_hong_phuc_west": {
+      "textures": [
+        "textures/blocks/_nguyenphuc"
+      ]
+    },
+    "k7a2_nguyen_lap_hong_phuc_east": {
+      "textures": [
+        "textures/blocks/_nguyenphuc"
+      ]
+    },
+    "k7a2_tran_mai_phuong_up": {
+      "textures": [
+        "textures/blocks/_phuong"
+      ]
+    },
+    "k7a2_tran_mai_phuong_down": {
+      "textures": [
+        "textures/blocks/_phuong"
+      ]
+    },
+    "k7a2_tran_mai_phuong_south": {
+      "textures": [
+        "textures/blocks/_phuong"
+      ]
+    },
+    "k7a2_tran_mai_phuong_north": {
+      "textures": [
+        "textures/blocks/_phuong"
+      ]
+    },
+    "k7a2_tran_mai_phuong_west": {
+      "textures": [
+        "textures/blocks/_phuong"
+      ]
+    },
+    "k7a2_tran_mai_phuong_east": {
+      "textures": [
+        "textures/blocks/_phuong"
+      ]
+    },
+    "k7a2_tran_nhu_quynh_up": {
+      "textures": [
+        "textures/blocks/_quynh"
+      ]
+    },
+    "k7a2_tran_nhu_quynh_down": {
+      "textures": [
+        "textures/blocks/_quynh"
+      ]
+    },
+    "k7a2_tran_nhu_quynh_south": {
+      "textures": [
+        "textures/blocks/_quynh"
+      ]
+    },
+    "k7a2_tran_nhu_quynh_north": {
+      "textures": [
+        "textures/blocks/_quynh"
+      ]
+    },
+    "k7a2_tran_nhu_quynh_west": {
+      "textures": [
+        "textures/blocks/_quynh"
+      ]
+    },
+    "k7a2_tran_nhu_quynh_east": {
+      "textures": [
+        "textures/blocks/_quynh"
+      ]
+    },
+    "k7a2_do_duc_anh_tai_up": {
+      "textures": [
+        "textures/blocks/_tai"
+      ]
+    },
+    "k7a2_do_duc_anh_tai_down": {
+      "textures": [
+        "textures/blocks/_tai"
+      ]
+    },
+    "k7a2_do_duc_anh_tai_south": {
+      "textures": [
+        "textures/blocks/_tai"
+      ]
+    },
+    "k7a2_do_duc_anh_tai_north": {
+      "textures": [
+        "textures/blocks/_tai"
+      ]
+    },
+    "k7a2_do_duc_anh_tai_west": {
+      "textures": [
+        "textures/blocks/_tai"
+      ]
+    },
+    "k7a2_do_duc_anh_tai_east": {
+      "textures": [
+        "textures/blocks/_tai"
+      ]
+    },
+    "k7a2_tran_quy_hoang_thai_up": {
+      "textures": [
+        "textures/blocks/_thai"
+      ]
+    },
+    "k7a2_tran_quy_hoang_thai_down": {
+      "textures": [
+        "textures/blocks/_thai"
+      ]
+    },
+    "k7a2_tran_quy_hoang_thai_south": {
+      "textures": [
+        "textures/blocks/_thai"
+      ]
+    },
+    "k7a2_tran_quy_hoang_thai_north": {
+      "textures": [
+        "textures/blocks/_thai"
+      ]
+    },
+    "k7a2_tran_quy_hoang_thai_west": {
+      "textures": [
+        "textures/blocks/_thai"
+      ]
+    },
+    "k7a2_tran_quy_hoang_thai_east": {
+      "textures": [
+        "textures/blocks/_thai"
+      ]
+    },
+    "k7a2_nguyen_tuan_thanh_up": {
+      "textures": [
+        "textures/blocks/_thanh"
+      ]
+    },
+    "k7a2_nguyen_tuan_thanh_down": {
+      "textures": [
+        "textures/blocks/_thanh"
+      ]
+    },
+    "k7a2_nguyen_tuan_thanh_south": {
+      "textures": [
+        "textures/blocks/_thanh"
+      ]
+    },
+    "k7a2_nguyen_tuan_thanh_north": {
+      "textures": [
+        "textures/blocks/_thanh"
+      ]
+    },
+    "k7a2_nguyen_tuan_thanh_west": {
+      "textures": [
+        "textures/blocks/_thanh"
+      ]
+    },
+    "k7a2_nguyen_tuan_thanh_east": {
+      "textures": [
+        "textures/blocks/_thanh"
+      ]
+    },
+    "k7a2_vu_thanh_thao_up": {
+      "textures": [
+        "textures/blocks/_vuthao"
+      ]
+    },
+    "k7a2_vu_thanh_thao_down": {
+      "textures": [
+        "textures/blocks/_vuthao"
+      ]
+    },
+    "k7a2_vu_thanh_thao_south": {
+      "textures": [
+        "textures/blocks/_vuthao"
+      ]
+    },
+    "k7a2_vu_thanh_thao_north": {
+      "textures": [
+        "textures/blocks/_vuthao"
+      ]
+    },
+    "k7a2_vu_thanh_thao_west": {
+      "textures": [
+        "textures/blocks/_vuthao"
+      ]
+    },
+    "k7a2_vu_thanh_thao_east": {
+      "textures": [
+        "textures/blocks/_vuthao"
+      ]
+    },
+    "k7a2_kieu_phuong_thao_up": {
+      "textures": [
+        "textures/blocks/_kieuthao"
+      ]
+    },
+    "k7a2_kieu_phuong_thao_down": {
+      "textures": [
+        "textures/blocks/_kieuthao"
+      ]
+    },
+    "k7a2_kieu_phuong_thao_south": {
+      "textures": [
+        "textures/blocks/_kieuthao"
+      ]
+    },
+    "k7a2_kieu_phuong_thao_north": {
+      "textures": [
+        "textures/blocks/_kieuthao"
+      ]
+    },
+    "k7a2_kieu_phuong_thao_west": {
+      "textures": [
+        "textures/blocks/_kieuthao"
+      ]
+    },
+    "k7a2_kieu_phuong_thao_east": {
+      "textures": [
+        "textures/blocks/_kieuthao"
+      ]
+    },
+    "k7a2_nguyen_thanh_truc_up": {
+      "textures": [
+        "textures/blocks/_truc"
+      ]
+    },
+    "k7a2_nguyen_thanh_truc_down": {
+      "textures": [
+        "textures/blocks/_truc"
+      ]
+    },
+    "k7a2_nguyen_thanh_truc_south": {
+      "textures": [
+        "textures/blocks/_truc"
+      ]
+    },
+    "k7a2_nguyen_thanh_truc_north": {
+      "textures": [
+        "textures/blocks/_truc"
+      ]
+    },
+    "k7a2_nguyen_thanh_truc_west": {
+      "textures": [
+        "textures/blocks/_truc"
+      ]
+    },
+    "k7a2_nguyen_thanh_truc_east": {
+      "textures": [
+        "textures/blocks/_truc"
+      ]
+    },
+    "k7a2_nguyen_tu_uyen_up": {
+      "textures": [
+        "textures/blocks/_uyen"
+      ]
+    },
+    "k7a2_nguyen_tu_uyen_down": {
+      "textures": [
+        "textures/blocks/_uyen"
+      ]
+    },
+    "k7a2_nguyen_tu_uyen_south": {
+      "textures": [
+        "textures/blocks/_uyen"
+      ]
+    },
+    "k7a2_nguyen_tu_uyen_north": {
+      "textures": [
+        "textures/blocks/_uyen"
+      ]
+    },
+    "k7a2_nguyen_tu_uyen_west": {
+      "textures": [
+        "textures/blocks/_uyen"
+      ]
+    },
+    "k7a2_nguyen_tu_uyen_east": {
+      "textures": [
+        "textures/blocks/_uyen"
+      ]
+    },
+    "k7a2_co_toan_up": {
+      "textures": [
+        "textures/blocks/toan3"
+      ]
+    },
+    "k7a2_co_toan_down": {
+      "textures": [
+        "textures/blocks/toan3"
+      ]
+    },
+    "k7a2_co_toan_south": {
+      "textures": [
+        "textures/blocks/toan3"
+      ]
+    },
+    "k7a2_co_toan_north": {
+      "textures": [
+        "textures/blocks/toan3"
+      ]
+    },
+    "k7a2_co_toan_west": {
+      "textures": [
+        "textures/blocks/toan3"
+      ]
+    },
+    "k7a2_co_toan_east": {
+      "textures": [
+        "textures/blocks/toan3"
+      ]
+    },
+    "k7a2_nguyen_khoi_nguyen_up": {
+      "textures": [
+        "textures/blocks/nguyen"
+      ]
+    },
+    "k7a2_nguyen_khoi_nguyen_down": {
+      "textures": [
+        "textures/blocks/nguyen"
+      ]
+    },
+    "k7a2_nguyen_khoi_nguyen_south": {
+      "textures": [
+        "textures/blocks/nguyen"
+      ]
+    },
+    "k7a2_nguyen_khoi_nguyen_north": {
+      "textures": [
+        "textures/blocks/nguyen"
+      ]
+    },
+    "k7a2_nguyen_khoi_nguyen_west": {
+      "textures": [
+        "textures/blocks/nguyen"
+      ]
+    },
+    "k7a2_nguyen_khoi_nguyen_east": {
+      "textures": [
+        "textures/blocks/nguyen"
+      ]
+    },
+    "k7a2_dao_hong_phuc_up": {
+      "textures": [
+        "textures/blocks/cute-anime-uptxxcxl4h2zoe9r"
+      ]
+    },
+    "k7a2_dao_hong_phuc_down": {
+      "textures": [
+        "textures/blocks/cute-anime-uptxxcxl4h2zoe9r"
+      ]
+    },
+    "k7a2_dao_hong_phuc_south": {
+      "textures": [
+        "textures/blocks/cute-anime-uptxxcxl4h2zoe9r"
+      ]
+    },
+    "k7a2_dao_hong_phuc_north": {
+      "textures": [
+        "textures/blocks/cute-anime-uptxxcxl4h2zoe9r"
+      ]
+    },
+    "k7a2_dao_hong_phuc_west": {
+      "textures": [
+        "textures/blocks/cute-anime-uptxxcxl4h2zoe9r"
+      ]
+    },
+    "k7a2_dao_hong_phuc_east": {
+      "textures": [
+        "textures/blocks/cute-anime-uptxxcxl4h2zoe9r"
+      ]
+    },
+    "k7a2_k_7_a_2_normal_block_up": {
+      "textures": [
+        "textures/blocks/269994090_111943801353496_8322449346793998972_n"
+      ]
+    },
+    "k7a2_k_7_a_2_normal_block_down": {
+      "textures": [
+        "textures/blocks/269994090_111943801353496_8322449346793998972_n"
+      ]
+    },
+    "k7a2_k_7_a_2_normal_block_south": {
+      "textures": [
+        "textures/blocks/269994090_111943801353496_8322449346793998972_n"
+      ]
+    },
+    "k7a2_k_7_a_2_normal_block_north": {
+      "textures": [
+        "textures/blocks/269994090_111943801353496_8322449346793998972_n"
+      ]
+    },
+    "k7a2_k_7_a_2_normal_block_west": {
+      "textures": [
+        "textures/blocks/269994090_111943801353496_8322449346793998972_n"
+      ]
+    },
+    "k7a2_k_7_a_2_normal_block_east": {
+      "textures": [
+        "textures/blocks/269994090_111943801353496_8322449346793998972_n"
+      ]
+    }
+  }
+}
