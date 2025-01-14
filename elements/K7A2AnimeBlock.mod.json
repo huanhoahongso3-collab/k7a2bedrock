@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "k7a2_anime_block",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:K7A2NormalBlock"
+      },
+      {
+        "value": "CUSTOM:K7A2Ingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:K7A2Ingot"
+      },
+      {
+        "value": "CUSTOM:K7A2NormalBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:K7A2Block"
+    },
+    "name": "k_7_a_2_anime_block",
+    "namespace": "mod"
+  }
+}
